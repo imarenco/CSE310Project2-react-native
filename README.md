@@ -2,6 +2,16 @@
 
 A React Native mobile application for real-time group chat using Expo and Socket.IO.
 
+# Overview
+
+As a software engineer focused on mobile development and user experience, I created this React Native application to explore cross-platform mobile development and real-time communication patterns. This project represents my journey into understanding how modern mobile apps handle real-time data synchronization and provide seamless user experiences across different platforms.
+
+The software I wrote is a feature-rich mobile chat application that demonstrates advanced React Native concepts including state management, real-time data binding, and native mobile UI/UX patterns. It showcases my ability to create responsive, performant mobile applications that can handle real-time communication with beautiful, intuitive interfaces.
+
+My purpose for writing this software was to master React Native development while building a practical, real-world application that users could actually benefit from. This project helped me understand the complexities of mobile app development, from handling network connectivity issues to implementing smooth animations and responsive design patterns that work across different screen sizes and device capabilities.
+
+[Software Demo Video](https://youtu.be/hpb-5JjPs3g)
+
 ## 🚀 Features
 
 - **Beautiful UI** with modern design and smooth animations
@@ -337,6 +347,21 @@ eas build --platform android
 - Push notifications
 - Offline message queuing
 - Message encryption
+
+# Development Environment
+
+I developed this mobile application using React Native with Expo, which provides a powerful development environment for cross-platform mobile development. The development setup included VS Code as the primary IDE with React Native extensions, Expo CLI for project management, and various mobile simulators for testing across different platforms.
+
+The programming language used is JavaScript (ES6+) with React Native framework, leveraging modern React patterns including hooks, functional components, and context API. Key libraries include Expo for development tools and services, React Navigation for screen management, Socket.IO client for real-time communication, and various UI libraries for creating beautiful, native-like interfaces. The development workflow was streamlined with Expo's hot reloading and over-the-air updates.
+
+# Useful Websites
+
+- [React Native Official Documentation](https://reactnative.dev/docs/getting-started)
+- [Expo Documentation](https://docs.expo.dev/)
+- [React Navigation Getting Started](https://reactnavigation.org/docs/getting-started)
+- [Socket.IO Client Documentation](https://socket.io/docs/v4/client-api/)
+- [React Native Vector Icons](https://github.com/oblador/react-native-vector-icons)
+- [Expo Linear Gradient Documentation](https://docs.expo.dev/versions/latest/sdk/linear-gradient/)
 
 ## 📄 License
 
